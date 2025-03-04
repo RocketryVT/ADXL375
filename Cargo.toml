@@ -20,6 +20,7 @@ version = "0.0.1"
 [dependencies]
 defmt = "0.3"
 embedded-hal = "1.0.0"
+embedded-hal-async ={ version = "1.0" }
 embedded-io = "0.6.1"
 embedded-io-async = "0.6.1"
 
